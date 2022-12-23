@@ -220,7 +220,7 @@ const Home: NextPage = () => {
               alt=""
               className="absolute -top-32 left-5 rounded-full w-[400px]"
             /> */}
-            <img src="/howitworksimg.png" alt="" className="" />
+            <img src="/howitworksimg.svg" alt="" className="" />
             <h1 className="text-6xl font-bold text-white absolute top-24 left-36">
               HOW IT <br />
               WORKS
@@ -239,23 +239,23 @@ const Home: NextPage = () => {
               </div>
             </div>
             <div className="flex items-center space-x-5">
-              <img src="/datasecure.png" alt="" />
+              <img src="/support.svg" alt="" />
               <div>
-                <h1 className="text-xl font-semibold">Data Secure</h1>
+                <h1 className="text-xl font-semibold">24/7 Support</h1>
                 <p className="text-gray-300">We keep your data safe</p>
               </div>
             </div>
             <div className="flex items-center space-x-5">
-              <img src="/datasecure.png" alt="" />
+              <img src="/account-data.svg" alt="" />
               <div>
-                <h1 className="text-xl font-semibold">Data Secure</h1>
+                <h1 className="text-xl font-semibold">Account Data</h1>
                 <p className="text-gray-300">We keep your data safe</p>
               </div>
             </div>
             <div className="flex items-center space-x-5">
-              <img src="/datasecure.png" alt="" />
+              <img src="/actions.svg" alt="" />
               <div>
-                <h1 className="text-xl font-semibold">Data Secure</h1>
+                <h1 className="text-xl font-semibold">Multiple Actions</h1>
                 <p className="text-gray-300">We keep your data safe</p>
               </div>
             </div>
