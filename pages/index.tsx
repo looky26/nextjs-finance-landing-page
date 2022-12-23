@@ -235,28 +235,28 @@ const Home: NextPage = () => {
               <img src="/datasecure.png" alt="" />
               <div>
                 <h1 className="text-xl font-semibold">Data Secure</h1>
-                <p className="text-gray-300">We keep your data safe</p>
+                <p className="text-gray-300">We keep your data safer</p>
               </div>
             </div>
             <div className="flex items-center space-x-5">
               <img src="/support.svg" alt="" />
               <div>
                 <h1 className="text-xl font-semibold">24/7 Support</h1>
-                <p className="text-gray-300">We keep your data safe</p>
+                <p className="text-gray-300">We keep your data safer</p>
               </div>
             </div>
             <div className="flex items-center space-x-5">
               <img src="/account-data.svg" alt="" />
               <div>
                 <h1 className="text-xl font-semibold">Account Data</h1>
-                <p className="text-gray-300">We keep your data safe</p>
+                <p className="text-gray-300">We keep your data safer</p>
               </div>
             </div>
             <div className="flex items-center space-x-5">
               <img src="/actions.svg" alt="" />
               <div>
                 <h1 className="text-xl font-semibold">Multiple Actions</h1>
-                <p className="text-gray-300">We keep your data safe</p>
+                <p className="text-gray-300">We keep your data safer</p>
               </div>
             </div>
           </div>
