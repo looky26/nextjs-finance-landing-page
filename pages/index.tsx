@@ -12,9 +12,9 @@ const Home: NextPage = () => {
 
       <main className="bg-[#133E44]">
         <nav className="flex justify-between items-center max-w-7xl mx-auto p-5">
-          <img src="/financelogo.svg" alt="" />
-          <div className=" hidden text-white lg:flex space-x-10">
-            <div className="flex items-center space-x-2">
+          <img src="/financelogo.svg" alt="" className="hover:cursor-pointer"/>
+          <div className=" hidden text-white lg:flex space-x-10 ">
+            <div className="flex items-center space-x-2 hover:cursor-pointer">
               <p>Platform</p>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -32,13 +32,13 @@ const Home: NextPage = () => {
               </svg>
             </div>
 
-            <p>Resources</p>
-            <p>Company</p>
-            <p>Pricing</p>
+            <p className="hover:cursor-pointer">Resources</p>
+            <p className="hover:cursor-pointer">Company</p>
+            <p className="hover:cursor-pointer">Pricing</p>
           </div>
           <div className="flex text-white items-center">
-            <img src="/profile-2user.png" alt="" />
-            <div className="bg-[#2B666C] rounded-full p-2 flex ml-4 space-x-2 items-center">
+            <img src="/profile-2user.png" alt="" className="hover:cursor-pointer"/>
+            <div className="bg-[#2B666C] rounded-full p-2 flex ml-4 space-x-2 items-center hover:cursor-pointer">
               <img src="/usaicon.svg" alt="" />
               <p>USA</p>
               <svg
@@ -82,7 +82,7 @@ const Home: NextPage = () => {
                       alt=""
                     />
                   </div>
-                  <p>Scroll down</p>
+                  <p className="hover:cursor-pointer">Scroll down</p>
                 </div>
               </div>
             </div>
