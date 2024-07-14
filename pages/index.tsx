@@ -95,7 +95,7 @@ const Home: NextPage = () => {
         </header>
 
         {/* transaction access secure users */}
-        <div className="max-w-7xl  mx-auto grid grid-cols-1 lg:grid-cols-4 mt-20 mb-20 gap-y-4 px-5">
+        <div className="max-w-7xl  mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 mt-20 mb-20 gap-y-4 px-5">
           <div className="flex justify-center space-x-8 items-center">
             <img
               src="/crown.png"
